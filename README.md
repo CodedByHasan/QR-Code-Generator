@@ -14,4 +14,4 @@ To run the program:
 node index.js
 ```
 
-Enter a URL. The QR code will be generated and stored in `qr_img.png`. The URL will be stored in `URL.txt`.
+Enter a URL. The QR code will be generated and stored in `qr_img.png`. The URL will be stored in `URL.txt`. A QR code has been provided that will take the user to `www.google.com`.

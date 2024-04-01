@@ -1,5 +1,5 @@
 # QR-Code-Generator
-This project is part of App Brewery's Complete Web Developement Bootcamp 2024. This program generates a QR code from a given URL.
+This project is part of App Brewery's Complete Web Development Bootcamp 2024. This program generates a QR code from a given URL.
 
 ## Installation
 Install dependencies using `npm`:
